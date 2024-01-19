@@ -1,4 +1,4 @@
-you can visit it using the bellow link
+you can visit it using the following link
 
 https://react-meals-aa166.web.app/
 

@@ -1,3 +1,12 @@
+![Web capture_19-1-2024_231956_localhost](https://github.com/naol06/react-meals/assets/118481867/a012c814-e6f1-4bf9-8fc5-975500c24bc0)
+
+![Web capture_19-1-2024_232014_localhost](https://github.com/naol06/react-meals/assets/118481867/1df302ec-485f-44d7-be0e-42ace9207ac3)
+
+![Web capture_19-1-2024_232034_localhost](https://github.com/naol06/react-meals/assets/118481867/37f97f21-82fd-4235-ae64-7d31f68d77cf)
+
+![Web capture_19-1-2024_232058_localhost](https://github.com/naol06/react-meals/assets/118481867/28460c12-4c98-433c-85ea-e97579a94631)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

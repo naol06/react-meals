@@ -1,0 +1,12 @@
+
+.header{
+display: flex;
+justify-content: space-between;
+background-color: rgb(12, 128, 160);
+height: 70px;
+align-items: center;
+color: white;
+padding: 30px;
+font-size: 30px;
+
+}

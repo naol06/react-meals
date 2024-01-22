@@ -1,5 +1,6 @@
 const initialState={
-    cart:[]
+    cart:[],
+    user:null
 }
 export const cartReducer=(state=initialState,action)=>{
     
@@ -16,6 +17,14 @@ switch (action.type) {
       
         cart:[...state.cart.filter(newarr=>newarr.item.id!== action.id)]
        }
+       case "USER_STATE":
+      
+       return{
+      ...state,
+      user:action.user
+        
+       }
+       
     
     default:
      return state

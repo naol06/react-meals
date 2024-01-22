@@ -18,3 +18,10 @@ export const removeFromCart=(id)=>{
      id:id,
     }
 }
+export const userState=(user)=>{
+   
+    return{
+        type:"USER_STATE",
+     user:user,
+    }
+}

@@ -2,13 +2,7 @@ you can visit it using the following link
 
 https://react-meals-aa166.web.app/
 
-![Web capture_19-1-2024_231956_localhost](https://github.com/naol06/react-meals/assets/118481867/a012c814-e6f1-4bf9-8fc5-975500c24bc0)
-Just to show the second banner
-![Web capture_19-1-2024_232014_localhost](https://github.com/naol06/react-meals/assets/118481867/1df302ec-485f-44d7-be0e-42ace9207ac3)
-just to show the third banner
-![Web capture_19-1-2024_232034_localhost](https://github.com/naol06/react-meals/assets/118481867/37f97f21-82fd-4235-ae64-7d31f68d77cf)
-items i a cart and checkout page
-![Web capture_19-1-2024_232058_localhost](https://github.com/naol06/react-meals/assets/118481867/28460c12-4c98-433c-85ea-e97579a94631)
+
 
 
 # Getting Started with Create React App
